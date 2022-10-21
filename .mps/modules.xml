@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="MPSProject">
+    <projectModules>
+      <modulePath path="$PROJECT_DIR$/languages/JSON_Money_Maker/JSON_Money_Maker.mpl" folder="" />
+      <modulePath path="$PROJECT_DIR$/solutions/JSON_Money_Maker.runtime/JSON_Money_Maker.runtime.msd" folder="" />
+      <modulePath path="$PROJECT_DIR$/solutions/JSON_Money_Maker.sanbox/JSON_Money_Maker.sanbox.msd" folder="" />
+    </projectModules>
+  </component>
+</project>
